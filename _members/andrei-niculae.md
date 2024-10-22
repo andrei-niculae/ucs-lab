@@ -1,6 +1,6 @@
 ---
 name: Andrei Niculae
-image: images/andrei-profile.png
+image: images/andrei-profile.jpg
 role: phd
 links:
   email: andrei.niculae101@gmail.com

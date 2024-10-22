@@ -1,6 +1,6 @@
 ---
 name: Radu Chivereanu
-image: images/radu-profile.png
+image: images/radu-profile.jpeg
 role: phd
 links:
   email: rchivereanu@gmail.com
