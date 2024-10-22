@@ -1,14 +1,29 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
-- id: doi:2308.10623
+- id: doi:10.1109/FG59268.2024.10581961
+  title: Gait Recognition from Highly Compressed Videos
+  authors:
+  - Andrei Niculae
+  - Andy Catruna
+  - Adrian Cosma
+  - Daniel Rosner
+  - Emilian Radoi
+  publisher: 2024 IEEE 18th International Conference on Automatic Face and Gesture
+    Recognition (FG)
+  date: '2024-05-27'
+  link: https://doi.org/g8nqmq
+  orcid: 0009-0002-5751-0514
+  plugin: orcid.py
+  file: orcid.yaml
+- id: doi:10.48550/arXiv.2308.10623
   title: 'GaitPT: Skeletons Are All You Need For Gait Recognition'
   authors:
   - Andy Catruna
   - Adrian Cosma
   - Emilian Radoi
   publisher: arXiv
-  date: '2023-08-21'
-  link: https://doi.org/2308.10623
+  date: '2023-01-01'
+  link: https://doi.org/g8nqmd
   image: /images/icon.png
   plugin: sources.py
   file: sources.yaml
