@@ -1,7 +1,7 @@
 ---
 name: Radu Chivereanu
 image: images/radu-profile.jpeg
-role: phd
+role: master
 links:
   email: rchivereanu@gmail.com
   scholar:

@@ -1,7 +1,7 @@
 ---
 name: Andrei Niculae
 image: images/andrei-profile.jpg
-role: phd
+role: master
 links:
   email: andrei.niculae101@gmail.com
   scholar:
