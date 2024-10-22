@@ -1,13 +1,13 @@
 # site properties and page defaults
-title: Ubiquitous Cognitive Systems
-subtitle: Faculty of Automatic Control and Computer Science, UPB
-description: The Ubiquitous Cognitive Systems (UCS) is a research group within the Faculty of Automatics and Control of the University Politehnica of Bucharest (UPB). The group is led by Conf. Dr. Eng. Ion-Emilian Radoi and focuses on the development of intelligent systems for the analysis of human behavior in unconstrained real world scenarios.
+title: nan-dre
+subtitle: 
+description: An engaging 1-3 sentence description of your lab.
 header: images/background.png
 footer: images/background.png
 
 # site social media and other links
 links:
-  email: emilian.radoi@upb.ro
+  email: contact@nan-dre.com
   orcid:
   google-scholar: yjtWIf8AAAAJ
   # github: your-lab
